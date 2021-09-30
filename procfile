@@ -1,0 +1,2 @@
+scan: npm start
+server: node . --server
