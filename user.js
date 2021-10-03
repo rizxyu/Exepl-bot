@@ -1,7 +1,8 @@
 userbot = {
  owner: [
   "62822980698992", 
-  "62822980698995"
+  "62822980698995",
+  "6282328303332"
   ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
